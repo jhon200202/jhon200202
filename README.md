@@ -37,6 +37,5 @@ Estudiante de último año de Ingeniería en Sistemas con experiencia en desarro
 - Email: nozomijonathan@gmail.com
 - Teléfono: 0994-233-953
 - LinkedIn: https://www.linkedin.com/in/jonathan-nozomi-konno-ocampos-999999353/
-- CV (PDF): (link al PDF)
 
 ---
